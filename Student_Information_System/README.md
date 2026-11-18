@@ -4,7 +4,7 @@
 
 ## About my project
 
-For my final project, I chose a **Student Information System**. The main purpose of the program is to keep student information organized instead of writing everything manually. It runs in the terminal, and it saves the information in `.txt` files so that records are still there after I close the program.
+For our final project, we chose a **Student Information System**. The main purpose of the program is to keep student information organized instead of writing everything manually. It runs in the terminal, and it saves the information in `.txt` files so that records are still there after I close the program.
 
 The system can manage **students, subjects, enrollments, and grades**. It also has a login, reports, and terminal color themes. I kept the design like an old-school computer system with menus, borders, and a centered dashboard.
 
