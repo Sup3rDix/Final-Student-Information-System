@@ -2,7 +2,7 @@
 
 **Python Final Laboratory Project — Terminal-Based Management System**
 
-## About my project
+## About Our project
 
 For our final project, we chose a **Student Information System**. The main purpose of the program is to keep student information organized instead of writing everything manually. It runs in the terminal, and it saves the information in `.txt` files so that records are still there after I close the program.
 
