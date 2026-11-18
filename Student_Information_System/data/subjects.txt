@@ -1,0 +1,4 @@
+{"code":"IT101","title":"Introduction to Computing","units":3,"instructor":"Prof. D. Mendoza"}
+{"code":"IT201","title":"Data Structures and Algorithms","units":3,"instructor":"Prof. R. Navarro"}
+{"code":"CS301","title":"Database Management Systems","units":3,"instructor":"Prof. A. Flores"}
+{"code":"GE101","title":"Purposive Communication","units":3,"instructor":"Prof. P. Dela Cruz"}

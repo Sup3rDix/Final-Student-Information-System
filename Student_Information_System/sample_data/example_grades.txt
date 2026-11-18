@@ -1,0 +1,2 @@
+{"enrollment_id":"ENR0001","prelim":90,"midterm":85,"final_exam":88,"average":87.7,"remarks":"Passed","updated_at":"2026-11-18 10:00:00"}
+{"enrollment_id":"ENR0002","prelim":70,"midterm":76,"final_exam":72,"average":72.6,"remarks":"Failed","updated_at":"2026-11-18 10:02:00"}

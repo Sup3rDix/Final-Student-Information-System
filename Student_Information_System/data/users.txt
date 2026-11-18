@@ -1,0 +1,1 @@
+{"username": "admin", "role": "Administrator", "active": true, "created_at": "2026-11-18 17:51:29", "salt": "2589d4d6b6c845025475c2b503a532ab", "password_hash": "7e321c929b2cb0f326a1e682f48d25fd2978d4c0bf02e46e7a320dda0e82d08f", "iterations": 600000}

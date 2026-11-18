@@ -1,0 +1,2 @@
+{"enrollment_id":"ENR0001","student_id":"STU0001","subject_code":"IT101","semester":"1st","school_year":"2026-2027","enrolled_at":"2026-11-18 09:10:00"}
+{"enrollment_id":"ENR0002","student_id":"STU0002","subject_code":"IT201","semester":"1st","school_year":"2026-2027","enrolled_at":"2026-11-18 09:12:00"}

@@ -1,0 +1,2 @@
+{"code":"IT101","title":"Introduction to Computing","units":3,"instructor":"Prof. D. Mendoza"}
+{"code":"IT201","title":"Data Structures and Algorithms","units":3,"instructor":"Prof. R. Navarro"}
