@@ -143,8 +143,3 @@ python -m unittest discover -s tests -v
 
 These tests check account access, data validation, file handling, the student-related records, reports, and theme settings. It is also important to test the features by actually running the program in the terminal.
 
-## For the final submission
-
-My GitHub repository should include the **Python source code, text-file examples, README, and screenshots**. I also need to record **my own** video showing the features and explaining how the program works, upload the video to both Facebook and YouTube, and submit all three links in the LMS. The instructor should be invited through GitHub using `natzjun2@gmail.com`.
-
-**Privacy reminder:** Do not upload real student information or the accounts created while using the program. `data/users.txt` starts empty so the administrator account can be created locally. The `sample_data/` records use fictional names.
